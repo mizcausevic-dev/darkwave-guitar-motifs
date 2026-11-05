@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:22.339715+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z6401-darkwave-guitar-motifs-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "77a7423eac93e7db219fe85df095fa754fe77c09cd28e293b626f3c25da5ba67",
+      "errors": []
+    },
+    {
+      "path": "midi/z6401-darkwave-guitar-motifs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "23865b117fb0e4f2769717c36897ec64d222c6db0fceec228249372438a97c63",
+      "errors": []
+    },
+    {
+      "path": "midi/z6401-darkwave-guitar-motifs-opening/drums.mid",
+      "bytes": 2706,
+      "sha256": "7bd8333ace7634b0a3074f82c8b40e642bcce6bd2cd8cd58267ccaa6f1fddb5c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6401-darkwave-guitar-motifs-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "dbb28e97c213032237482f7436f4b83607b8e3dea70a9a6060a666e6502be331",
+      "errors": []
+    },
+    {
+      "path": "midi/z6401-darkwave-guitar-motifs-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "fffde39a3a8bdfd5507a36db0ac48d9f77ca9ad05e9f348ccadbb04af6b34225",
+      "errors": []
+    },
+    {
+      "path": "midi/z6401-darkwave-guitar-motifs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "122457fdc8229ec9a1bce9db23b13caf857e4e9f71574ae834ca9c57e9b3456a",
+      "errors": []
+    },
+    {
+      "path": "midi/z6401-darkwave-guitar-motifs-opening/z6401-darkwave-guitar-motifs-opening-combined.mid",
+      "bytes": 5738,
+      "sha256": "d21104c64602aa4b321fd9fae6667348f8567de6288566bb9447b096e6d9861a",
+      "errors": []
+    },
+    {
+      "path": "midi/z6402-darkwave-guitar-motifs-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "07250691bdd55632540c08bb83f02da31e7983e5eccb6d126fd4650ba0374ebe",
+      "errors": []
+    },
+    {
+      "path": "midi/z6402-darkwave-guitar-motifs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6615b8b422fd564aaed986558b67cc3f561679c9e4cddfbc032ea4f04f6a46a6",
+      "errors": []
+    },
+    {
+      "path": "midi/z6402-darkwave-guitar-motifs-variation/drums.mid",
+      "bytes": 2706,
+      "sha256": "7bd8333ace7634b0a3074f82c8b40e642bcce6bd2cd8cd58267ccaa6f1fddb5c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6402-darkwave-guitar-motifs-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "ae696789d58750bfc5a9c29c89ad737679580397e56ec51e5f801b4cb49d431c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6402-darkwave-guitar-motifs-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "a82f91c15fc5f7a21602ae2f265e0c118e23c0cd424970ca670023ccb01266e6",
+      "errors": []
+    },
+    {
+      "path": "midi/z6402-darkwave-guitar-motifs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "04eff65d89fb81659f260fcd077a80e6b7e66272149d8883dfa0c8a7fac36360",
+      "errors": []
+    },
+    {
+      "path": "midi/z6402-darkwave-guitar-motifs-variation/z6402-darkwave-guitar-motifs-variation-combined.mid",
+      "bytes": 5738,
+      "sha256": "d1b8924fcb67d9b94de4cd8560e263f3505799dc880ba04ca819d8a4a823dc6a",
+      "errors": []
+    },
+    {
+      "path": "midi/z6403-darkwave-guitar-motifs-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "62f9f067267655856fcd47b1ea39a080de17ace47ecd9667b30cb3356135c4e7",
+      "errors": []
+    },
+    {
+      "path": "midi/z6403-darkwave-guitar-motifs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "15d127249ff11ae9be449425c4b98cdbacb37c3b4ab329b0834b68660187548b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6403-darkwave-guitar-motifs-contrast/drums.mid",
+      "bytes": 2706,
+      "sha256": "7bd8333ace7634b0a3074f82c8b40e642bcce6bd2cd8cd58267ccaa6f1fddb5c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6403-darkwave-guitar-motifs-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "2be961d9df2b3a02b9ef8071bdcc3b115055537401a022f682e06e44f8ff1fc0",
+      "errors": []
+    },
+    {
+      "path": "midi/z6403-darkwave-guitar-motifs-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "533a3d9188f7a734ab8e90bf74ecaeaa0de31d63f7ed103af127c7289f0a7302",
+      "errors": []
+    },
+    {
+      "path": "midi/z6403-darkwave-guitar-motifs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "5e1b2080b75b77b6392e459f65b55353cb9bc8027cc6f6931ee20a4d6cc01516",
+      "errors": []
+    },
+    {
+      "path": "midi/z6403-darkwave-guitar-motifs-contrast/z6403-darkwave-guitar-motifs-contrast-combined.mid",
+      "bytes": 5706,
+      "sha256": "2880a24bb70cbbc1124001b55c1429bee03121fceecb4c9358b372009f1c7cf0",
+      "errors": []
+    },
+    {
+      "path": "midi/z6404-darkwave-guitar-motifs-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "e87092e5f85564d63a5e05c54b075680b7fe074490427c82f577015fbf2d1798",
+      "errors": []
+    },
+    {
+      "path": "midi/z6404-darkwave-guitar-motifs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "41c5040e7b8ddf06d3fadf4764c1a835e880f1c8374e964fed78143d19d7c037",
+      "errors": []
+    },
+    {
+      "path": "midi/z6404-darkwave-guitar-motifs-return/drums.mid",
+      "bytes": 2706,
+      "sha256": "7bd8333ace7634b0a3074f82c8b40e642bcce6bd2cd8cd58267ccaa6f1fddb5c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6404-darkwave-guitar-motifs-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "10e926285a65b6c97114f297055c1b008fad49b76d4ccdd9abe96695bf0f2da9",
+      "errors": []
+    },
+    {
+      "path": "midi/z6404-darkwave-guitar-motifs-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "e4decd3f5c992a2d63b5e55fca8200a0011081ca746b41afac8229d00b5d6ce9",
+      "errors": []
+    },
+    {
+      "path": "midi/z6404-darkwave-guitar-motifs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c1fb800d9dc4fc16be32648184b6f1e90a6cbe816b797e7178d4fd4af332012c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6404-darkwave-guitar-motifs-return/z6404-darkwave-guitar-motifs-return-combined.mid",
+      "bytes": 5706,
+      "sha256": "34f6142fce6506f8572556ea073d9ae597b86868ceb331b5de3b3a0d1ba3921f",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

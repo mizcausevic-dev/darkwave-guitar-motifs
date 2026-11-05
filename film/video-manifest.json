@@ -1,0 +1,26 @@
+{
+  "title": "Darkwave Guitar Motifs",
+  "study": "z6401",
+  "bpm": 108,
+  "source_audio": "preview/darkwave-guitar-motifs-simple-synth-preview.mp3",
+  "source_audio_sha256": "24da1af291654d121c67db2865282759b3f0f57bd52d4e1ccdbfa2dc5d9642d9",
+  "source_midi": "midi/z6401-darkwave-guitar-motifs-opening/z6401-darkwave-guitar-motifs-opening-combined.mid",
+  "source_midi_sha256": "d21104c64602aa4b321fd9fae6667348f8567de6288566bb9447b096e6d9861a",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "6bceca8a416248944511d3a2db8465439609da6989b23b7e416eb96d717fca28",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "0ef2ee6aef3aae1c29697b79253564df764a31ba4cdfc5cd9d6b561ef445a3f4",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "d7037d9b6e7708d39ce80ca94e91bea211425c4b76af7a71d7822391487a6ae7",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
