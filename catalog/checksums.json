@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/darkwave-guitar-motifs-midi.zip",
-      "bytes": 31517,
-      "sha256": "f0b2d427fbd515e8286790f9d7671f7fc2ca861083f475c3b609f2542b16f5b7"
+      "bytes": 32504,
+      "sha256": "efb2732616b04014c6a420ec5ee982d21f78f0325945906d3268454565b4b6ae"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9972,
-      "sha256": "c5881aa5c6cbcc12e72653347f3ee68bbf55649978a31d9ec78ecd8239520bc8"
+      "bytes": 10162,
+      "sha256": "b48350fe2d8497f3c955a906e59b71aee4c8fb625aec45cf5ab98fa5a67d391c"
     },
     {
       "path": "midi/z6401-darkwave-guitar-motifs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "34f6142fce6506f8572556ea073d9ae597b86868ceb331b5de3b3a0d1ba3921f"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/darkwave-guitar-motifs-simple-synth-preview.mp3",
       "bytes": 1720364,
       "sha256": "24da1af291654d121c67db2865282759b3f0f57bd52d4e1ccdbfa2dc5d9642d9"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3979,
-      "sha256": "0a4dadd30fe2b2454747dadf2771310ba0581b096b67f20fa3252b008ee61f8a"
+      "bytes": 4094,
+      "sha256": "6af638e1d85b847ca341005c05828b433be5d0f2910689400448ac387095c98d"
     },
     {
       "path": "social/instagram/caption.txt",
